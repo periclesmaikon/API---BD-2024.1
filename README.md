@@ -1,6 +1,5 @@
 Aluno: Pericles Maikon de Jesus Costa
-#Pericles Maikon de Jesus Costa
-#COMP0455 - T01
+COMP0455 - T01
 
 API simples de criação e busca de usuário (Armazenados em lista em um arquivo).
 Tecnologias usadas: Python + Flask.
