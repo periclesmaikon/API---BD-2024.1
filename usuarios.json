@@ -1,0 +1,12 @@
+[
+    {
+        "cpf": 123,
+        "nome": "Pericles",
+        "data_nascimento": "2003-12-14"
+    },
+    {
+        "cpf": 1234,
+        "nome": "Bruna",
+        "data_nascimento": "2003-12-13"
+    }
+]
